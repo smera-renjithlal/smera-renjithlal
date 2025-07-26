@@ -1,6 +1,6 @@
 # Hi, I'm Smera!
 
-I’m currently a sophomore at the National Institute of Technology, Calicut, majoring in Computer Science.<br> 
+I’m currently a junior at the National Institute of Technology, Calicut, majoring in Computer Science.<br> 
 I’m deeply passionate about crafting innovative solutions that bring ease and simplicity to everyday life. When I’m not immersed in exploring web technologies or sharpening my DSA skills, you’ll likely find me curled up with a good book and a steaming hot cup of coffee.<br><br>
 
 
